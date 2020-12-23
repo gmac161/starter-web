@@ -2,6 +2,7 @@
 
 This is a simple repository for showing how Git and GitHub work
 Adding some text for rebasing example, then more changes from feature branch
+Updating for an emergency fix after stash
 
 ## Introduction
 
