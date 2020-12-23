@@ -22,3 +22,5 @@ Deployment can be on any web server or local file system
 Please fork this repository and then issue Pull Requests for review 
 
 ###Copyright
+
+All rights reserved
