@@ -14,6 +14,9 @@ using a web project.
 Purpose is to demonstrate use of Git
 Sample website with plenty of files for demos
 
+## Updates from Dev 1
+Some dummy updates to test pull requests
+
 ## Deployment
 
 Deployment can be on any web server or local file system
