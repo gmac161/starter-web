@@ -15,6 +15,7 @@ Purpose is to demonstrate use of Git
 Sample website with plenty of files for demos
 
 ## Updates from Dev 1
+Some dummy updates to test pull requests
 
 ## Deployment
 
